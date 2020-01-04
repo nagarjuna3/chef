@@ -1,12 +1,20 @@
 #
+<<<<<<< HEAD
 # Cookbook:: apache
+=======
+# Cookbook:: workstation
+>>>>>>> fbedd8039488ca9d9139d87762bc623b03ced67a
 # Spec:: default
 #
 # Copyright:: 2020, The Authors, All Rights Reserved.
 
 require 'spec_helper'
 
+<<<<<<< HEAD
 describe 'apache::default' do
+=======
+describe 'workstation::default' do
+>>>>>>> fbedd8039488ca9d9139d87762bc623b03ced67a
   context 'When all attributes are default, on Ubuntu 18.04' do
     # for a complete list of available platforms and versions see:
     # https://github.com/chefspec/fauxhai/blob/master/PLATFORMS.md

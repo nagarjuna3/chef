@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # InSpec test for recipe apache::default
+=======
+# InSpec test for recipe workstation::default
+>>>>>>> fbedd8039488ca9d9139d87762bc623b03ced67a
 
 # The InSpec reference, with examples and extensive documentation, can be
 # found at https://www.inspec.io/docs/reference/resources/
